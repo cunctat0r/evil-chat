@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Learning project of real-time web-chat based on article [Evil Front](https://evilmartians.com/chronicles/evil-front-part-1) by [Evil Martians](https://evilmartians.com).
 
-Things you may want to cover:
+This project is an example of ActionCable using in Rails 5. 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
